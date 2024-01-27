@@ -113,5 +113,5 @@ export const skillsData = [
   "Redux",
   "Express",
   "Framer Motion",
-  "Sense of Humour",
+  "Poczucie Humoru",
 ] as const;
